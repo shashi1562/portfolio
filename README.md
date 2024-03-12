@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️ 
-Your site is live at https://shashi1562.github.io/
+site is live at https://shashi1562.github.io/
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 
